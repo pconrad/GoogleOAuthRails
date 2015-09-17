@@ -1,6 +1,7 @@
 #Gemfile
 source 'https://rubygems.org'
 gem 'jquery-rails'
+gem 'uglifier'
 gem 'turbolinks'
 gem 'rails', '4.1.5'
 gem 'omniauth', '~> 1.2.2'
